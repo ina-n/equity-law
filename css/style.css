@@ -1,0 +1,36 @@
+/* line 5, ../sass/style.scss */
+body {
+  background: #fff;
+  color: #858388;
+  font-family: "Merriweather", serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* line 13, ../sass/style.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", serif;
+  color: #201f24;
+}
+
+/* line 18, ../sass/style.scss */
+a {
+  color: #fff;
+  text-decoration: none;
+}
+/* line 22, ../sass/style.scss */
+a:hover {
+  color: #eab880;
+  border-bottom: 4px double #fff;
+}
+
+/* line 28, ../sass/style.scss */
+button {
+  background: #fff;
+  border: 4px double #eab880;
+}
+
+/* line 33, ../sass/style.scss */
+header, footer {
+  background: #201f24;
+}
